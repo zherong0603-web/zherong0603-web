@@ -1,27 +1,28 @@
 ---
 name: Work inquiry
-about: Discuss a focused fix or one workflow assessment
+about: Scope a one-workflow decision audit or focused software fix
 title: "[Work inquiry] "
 labels: ""
 assignees: ""
 ---
 
-This issue is public. Include only public or redacted information. Keep private code, customer records, credentials and payment details out of this issue.
+This issue is public. Include only public or redacted information. Do not post private code, customer records, credentials, contact details, or payment information. We will agree on a suitable private channel before any sensitive exchange.
 
-### Desired Result
+### Which service?
 
-What is the specific result you need?
+- [ ] One-workflow decision audit (US$199 fixed scope)
+- [ ] Focused Node.js / TypeScript fix (quoted separately)
 
-### Current Behavior
+### Desired result
 
-For a bug, include a public repository link, relevant version and reproducible steps. For a workflow, describe the inputs, handoffs and current problem without identifying customers.
+What is the specific decision or observable result you need?
 
-### Acceptance
+### Current situation
 
-What observable result would count as accepted?
+For a workflow, describe one recent event, roles, systems, and the recurring problem without identifying customers. For a software fix, provide a public repository, version, and reproducible steps.
 
-### Budget and Timing
+### Acceptance and timing
 
-What budget range and timing are you considering?
+What would count as accepted? What timing are you considering?
 
-This inquiry does not create a delivery commitment. Scope and commercial terms are confirmed separately.
+This inquiry is a scoping conversation, not an order or delivery commitment. Exact scope, acceptance, date, private channel, and payment method are agreed before work starts.
