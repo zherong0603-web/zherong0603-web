@@ -36,3 +36,20 @@ I can also discuss a small, reproducible bug in an existing Node.js or TypeScrip
 - [Sales announcement renderer](https://github.com/zherong0603-web/wecom-sales-victory-gif-skill): a local renderer with asset validation and output checks.
 
 These repositories are implementation examples. Paid client outcomes or savings are not being claimed.
+
+
+## Four-second branded announcement GIF — proposed fixed scope
+
+For a team that needs one short, looping sales or account-opening announcement using this existing visual template.
+
+- US$39 for one announcement; US$119 for three announcements using one brand and template.
+- Each announcement includes a 4-second looping GIF (720×900) and a PNG poster (1080×1350), plus one round of consolidated revisions.
+- You supply a logo, portrait, background and brief text that you have permission to use. The work adapts the existing template; it does not include custom illustration, voice-over, 15–20-second ads, AE/Jitter source projects or marketing performance claims.
+
+![Synthetic announcement example](samples/synthetic-sales-announcement.gif)
+
+[Full-size poster](samples/synthetic-sales-announcement.png). This is an anonymous **synthetic demonstration**, with fictional customer and salesperson data. It demonstrates this template’s local rendered output; it is not paid client work, a real sale, or a business result. Production requires replacing the demo portrait, logo and background with authorized assets.
+
+Production uses code and AI assistance. Before any work begins, we agree the exact brief, acceptance criteria, delivery date, private asset channel, payment method, fees and settlement timing. No current payment-provider eligibility or availability is being claimed. These are proposed prices, not an accepted agreement.
+
+For a [public/redacted inquiry](https://github.com/zherong0603-web/zherong0603-web/issues/new?template=work-inquiry.md), describe the announcement and desired text without posting private images, customer records or payment details. Private assets need a separately agreed authorized channel.
